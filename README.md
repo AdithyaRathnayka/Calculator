@@ -45,6 +45,10 @@ The main components of the calculator are:
 JFrame: The main window.
 JTextField: Input field to display the entered numbers and results.
 JButton: Buttons for digits, operations, and special functions.
+
+![Screenshot (582)](https://github.com/AdithyaRathnayka/Calculator/assets/99322651/4e8fdfc5-d3bc-48a5-89f4-9e6818bfa077)
+
+
 Key Sections of the Code:
 Initializing the Frame: Setting up the main window properties.
 TextField: Adding a text field to display the numbers and results.
